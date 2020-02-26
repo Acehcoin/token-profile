@@ -1,0 +1,22 @@
+{
+  "symbol": "SCN",
+  "address": "0x8a65ab17324c155fAc3e46aD33e9553d9165a252",
+  "overview":{
+        "en": "Silver Coin is a coin created specifically to enter the global market, Silver coin is created using a decentralized smart contract ethereum, Silver coin can be used in all sectors to replace cash. Be it privately or in groups, Silver coins are built to improve the public economy technologically, competition with the number of stable coins makes Silver coins one of the coins that are helped to compete with many other stable coins, especially USDT, USDC and others.",
+        "zh": "银币是专门为进入全球市场而创建的硬币，银币是使用去中心化智能合约以太坊创建的，银币可用于所有领域以代替现金。无论是私人发行还是集体发行，银币都是为了从技术上改善公共经济而制造的，与稳定币数量的竞争使银币成为帮助与许多其他稳定币（尤其是USDT，USDC等）竞争的硬币之一。"
+  },
+  "email": "support@silvercoin.asia",
+  "website": "https://silvercoin.asia/",
+  "whitepaper": "https://silvercoin.asia/wp-content/uploads/2019/12/SCN-White-Paper.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-12-26",
+  "initial_price":{
+        "ETH":"0.008 ETH",
+  },
+  "links": {
+    "twitter": "https://twitter.com/scn_stabel",
+    "telegram": "https://t.me/silvercoin_group",
+    "facebook": "https://www.facebook.com/silvercoinpage",
+    "medium": "https://medium.com/@scn_official"
+  }
+}
